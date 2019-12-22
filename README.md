@@ -1,2 +1,5 @@
 # effective-tribble
-I have no idea what I'm doing. Hopefully that changes.
+
+This is my first time coding/learning how to code. 
+
+Hopefully this is not a one-time thing.
